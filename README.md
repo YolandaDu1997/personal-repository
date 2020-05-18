@@ -1,6 +1,7 @@
 some info about me
 
-insert something to get conflicts
+insert something to get conflicts to add
+
 
 try conflicts again
 
